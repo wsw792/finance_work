@@ -1,6 +1,0 @@
-streamlit
-yfinance
-numpy
-pandas
-matplotlib
-pandas-datareader
