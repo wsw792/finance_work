@@ -3,6 +3,6 @@ yfinance
 numpy
 pandas
 matplotlib
-pandas-datareader
+datareader
 ipython
-pandas-mplfinance
+mplfinance
